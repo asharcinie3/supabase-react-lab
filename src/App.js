@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { supabase } from './supabaseClient';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 
 function Library() {
